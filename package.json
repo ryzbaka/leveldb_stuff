@@ -1,0 +1,23 @@
+{
+  "name": "leveldb_and_crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "content-addressable-blob-store": "^5.1.0",
+    "crypto-js": "^4.0.0",
+    "level": "^6.0.1",
+    "level-livefeed": "^0.2.0",
+    "lexicographic-integer": "^1.1.0",
+    "prompt": "^1.1.0",
+    "strftime": "^0.10.0",
+    "subleveldown": "^5.0.1",
+    "to2": "^1.0.0"
+  }
+}
